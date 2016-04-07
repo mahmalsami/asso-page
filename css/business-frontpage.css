@@ -13,7 +13,8 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('http://genaf.free.fr/images/back3.jpg') center center no-repeat scroll;
+    /*background: url('http://genaf.free.fr/images/back3.jpg') center center no-repeat scroll;*/
+    background: url('../images/bg-1.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
